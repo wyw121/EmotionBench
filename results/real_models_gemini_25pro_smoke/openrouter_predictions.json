@@ -1,0 +1,52 @@
+[
+  {
+    "id": "metaphor_020",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "metaphor_008",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "sarcasm_012",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_010",
+    "prediction": "neutral",
+    "raw_output": "label:"
+  },
+  {
+    "id": "sarcasm_015",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "metaphor_006",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "normal_002",
+    "prediction": "positive",
+    "raw_output": "label: positive"
+  },
+  {
+    "id": "adv_002",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "normal_016",
+    "prediction": "negative",
+    "raw_output": "label: negative"
+  },
+  {
+    "id": "adv_003",
+    "prediction": "negative",
+    "raw_output": "label: negative"
+  }
+]

@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,strict_accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score,format_valid_rate,invalid_output_count
+OpenAI-Compatible,qwen3.5-plus,1,1.0,1.0,0.3333333333333333,0.0,1.0,0.0,1.0,0

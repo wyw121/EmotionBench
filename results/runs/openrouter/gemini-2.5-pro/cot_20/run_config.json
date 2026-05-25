@@ -1,0 +1,9 @@
+{
+  "provider": "openrouter",
+  "dataset": "D:\\material\\大三下学期2025-2026-2\\人工智能导论\\LLM-Emotion-Eval\\EmotionBench\\results\\runs\\openrouter\\gemini-2.5-pro\\cot_20\\_shuffled_dataset.json",
+  "prompt": "cot_prompt.txt",
+  "limit": 20,
+  "shuffle": true,
+  "seed": 42,
+  "output_dir": "D:\\material\\大三下学期2025-2026-2\\人工智能导论\\LLM-Emotion-Eval\\EmotionBench\\results\\runs\\openrouter\\gemini-2.5-pro\\cot_20"
+}

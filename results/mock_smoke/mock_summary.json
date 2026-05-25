@@ -1,0 +1,40 @@
+{
+  "accuracy": 0.9,
+  "macro_f1": 0.6470588235294118,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      8
+    ]
+  ],
+  "per_type_accuracy": {
+    "normal": 0.9
+  },
+  "support": {
+    "negative": 1,
+    "neutral": 0,
+    "positive": 9
+  },
+  "normal_accuracy": 0.9,
+  "adversarial_accuracy": 0.0,
+  "robustness_score": 0.0,
+  "provider": "Mock",
+  "model": "heuristic-mock",
+  "num_samples": 10
+}

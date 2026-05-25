@@ -1,0 +1,20 @@
+{
+  "num_samples": 101,
+  "types": [
+    "adversarial",
+    "metaphor",
+    "normal",
+    "sarcasm"
+  ],
+  "label_counts": {
+    "negative": 53,
+    "neutral": 25,
+    "positive": 23
+  },
+  "type_counts": {
+    "normal": 25,
+    "metaphor": 27,
+    "sarcasm": 25,
+    "adversarial": 24
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "num_samples": 24,
+  "types": [
+    "adversarial",
+    "metaphor",
+    "normal",
+    "sarcasm"
+  ]
+}

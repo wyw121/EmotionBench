@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,strict_accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score,format_valid_rate,invalid_output_count
+OpenAI-Compatible,glm-5.1,101,0.3069306930693069,0.039603960396039604,0.29107744107744105,0.52,0.23234567901234568,0.4468186134852801,0.039603960396039604,97

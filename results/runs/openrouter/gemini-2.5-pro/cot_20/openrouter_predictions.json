@@ -1,0 +1,102 @@
+[
+  {
+    "id": "metaphor_020",
+    "prediction": "neutral",
+    "raw_output": "reasoning"
+  },
+  {
+    "id": "metaphor_008",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_012",
+    "prediction": "neutral",
+    "raw_output": "reasoning"
+  },
+  {
+    "id": "normal_010",
+    "prediction": "neutral",
+    "raw_output": "reason"
+  },
+  {
+    "id": "sarcasm_015",
+    "prediction": "neutral",
+    "raw_output": "reasoning"
+  },
+  {
+    "id": "metaphor_006",
+    "prediction": "neutral",
+    "raw_output": "reason"
+  },
+  {
+    "id": "normal_002",
+    "prediction": "neutral",
+    "raw_output": "reasoning:"
+  },
+  {
+    "id": "adv_002",
+    "prediction": "neutral",
+    "raw_output": "reason"
+  },
+  {
+    "id": "normal_016",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_003",
+    "prediction": "neutral",
+    "raw_output": "reason"
+  },
+  {
+    "id": "sarcasm_022",
+    "prediction": "neutral",
+    "raw_output": "reasoning"
+  },
+  {
+    "id": "normal_011",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_024",
+    "prediction": "neutral",
+    "raw_output": "reason"
+  },
+  {
+    "id": "metaphor_018",
+    "prediction": "neutral",
+    "raw_output": "reasoning"
+  },
+  {
+    "id": "sarcasm_004",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_017",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_025",
+    "prediction": "neutral",
+    "raw_output": "reason"
+  },
+  {
+    "id": "adv_019",
+    "prediction": "neutral",
+    "raw_output": "reasoning"
+  },
+  {
+    "id": "sarcasm_023",
+    "prediction": "neutral",
+    "raw_output": "reasoning:"
+  },
+  {
+    "id": "sarcasm_005",
+    "prediction": "neutral",
+    "raw_output": ""
+  }
+]

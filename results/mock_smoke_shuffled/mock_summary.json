@@ -1,0 +1,43 @@
+{
+  "accuracy": 0.5,
+  "macro_f1": 0.4643274853801169,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      4,
+      6,
+      1
+    ],
+    [
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      3,
+      1
+    ]
+  ],
+  "per_type_accuracy": {
+    "metaphor": 0.3333333333333333,
+    "sarcasm": 0.5,
+    "normal": 0.75,
+    "adversarial": 0.5
+  },
+  "support": {
+    "negative": 11,
+    "neutral": 5,
+    "positive": 4
+  },
+  "normal_accuracy": 0.75,
+  "adversarial_accuracy": 0.4444444444444444,
+  "robustness_score": 0.5925925925925926,
+  "provider": "Mock",
+  "model": "heuristic-mock",
+  "num_samples": 20
+}

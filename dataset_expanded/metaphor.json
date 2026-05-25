@@ -1,0 +1,218 @@
+[
+  {
+    "id": "metaphor_001",
+    "text": "她的笑容像春天的阳光。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "温暖感受"
+  },
+  {
+    "id": "metaphor_002",
+    "text": "那句鼓励像一盏灯，照亮了我的路。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "被鼓励"
+  },
+  {
+    "id": "metaphor_003",
+    "text": "他的支持像一阵顺风，把我推向前方。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "支持带来帮助"
+  },
+  {
+    "id": "metaphor_004",
+    "text": "这个想法像打开了一扇窗。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "灵感涌现"
+  },
+  {
+    "id": "metaphor_005",
+    "text": "老师的点评像一把钥匙，帮我找到了答案。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "学习突破"
+  },
+  {
+    "id": "metaphor_006",
+    "text": "团队合作像一条顺流的河。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "协作顺畅"
+  },
+  {
+    "id": "metaphor_007",
+    "text": "她的话让整个房间亮了一下。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "情绪被点亮"
+  },
+  {
+    "id": "metaphor_008",
+    "text": "这次成功像一块落地的石头，让人安心。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "成功带来安定"
+  },
+  {
+    "id": "metaphor_009",
+    "text": "他的建议像一阵暖风，吹散了我的焦虑。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "缓解压力"
+  },
+  {
+    "id": "metaphor_010",
+    "text": "他的回复像冬天的铁门。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "回复冷淡"
+  },
+  {
+    "id": "metaphor_011",
+    "text": "那句话像一把慢慢合上的刀。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "语言伤害"
+  },
+  {
+    "id": "metaphor_012",
+    "text": "失败像一块石头压在胸口。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "挫败感"
+  },
+  {
+    "id": "metaphor_013",
+    "text": "她的态度像一堵冰冷的墙。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "关系疏离"
+  },
+  {
+    "id": "metaphor_014",
+    "text": "争吵像一场没有尽头的雨。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "冲突持续"
+  },
+  {
+    "id": "metaphor_015",
+    "text": "压力像潮水一样涌上来。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "压力累积"
+  },
+  {
+    "id": "metaphor_016",
+    "text": "那份报告像一团打结的线。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "混乱感"
+  },
+  {
+    "id": "metaphor_017",
+    "text": "他的沉默像关掉了所有灯。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "沉默压迫"
+  },
+  {
+    "id": "metaphor_018",
+    "text": "心里的不安像一只不停敲门的鸟。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "焦虑感"
+  },
+  {
+    "id": "metaphor_019",
+    "text": "会议像一条平静的河，缓慢流过。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "平稳会议"
+  },
+  {
+    "id": "metaphor_020",
+    "text": "这个过程像拼图一样，按部就班。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "流程描述"
+  },
+  {
+    "id": "metaphor_021",
+    "text": "消息像一张白纸，没有额外颜色。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "信息中性"
+  },
+  {
+    "id": "metaphor_022",
+    "text": "时间像钟摆一样来回摆动。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "时间描写"
+  },
+  {
+    "id": "metaphor_023",
+    "text": "他的回答像一面镜子，照出原样。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "原样反馈"
+  },
+  {
+    "id": "metaphor_024",
+    "text": "房间里的空气像静止的水。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "环境描写"
+  },
+  {
+    "id": "metaphor_025",
+    "text": "这段话像说明书，主要是步骤。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "说明性内容"
+  },
+  {
+    "id": "metaphor_026",
+    "text": "日程表像一列整齐的车厢。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "安排整齐"
+  },
+  {
+    "id": "metaphor_027",
+    "text": "讨论像一条直线，没有明显起伏。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "讨论平稳"
+  }
+]

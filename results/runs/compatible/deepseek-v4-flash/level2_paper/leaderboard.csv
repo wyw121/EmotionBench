@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,strict_accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score,format_valid_rate,invalid_output_count
+OpenAI-Compatible,deepseek-v4-flash,101,0.9504950495049505,0.9405940594059405,0.9523722293460342,1.0,0.9347530864197532,0.9347530864197532,0.9504950495049505,5

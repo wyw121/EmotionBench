@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "benchmark": "EmotionBench",
+  "created_at": "2026-05-25T06:34:08.338931+00:00",
+  "provider": "OpenRouter",
+  "model": "[芝士]gemini-2.5-pro",
+  "prompt": "cot_prompt.txt",
+  "num_samples": 20,
+  "output_files": {
+    "summary": "openrouter_summary.json",
+    "predictions": "openrouter_predictions.json"
+  },
+  "metrics": [
+    "accuracy",
+    "macro_f1",
+    "per_type_accuracy",
+    "robustness_score",
+    "confusion_matrix"
+  ]
+}

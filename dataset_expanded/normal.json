@@ -1,0 +1,202 @@
+[
+  {
+    "id": "normal_001",
+    "text": "今天拿到奖学金，我真的很开心。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "学生收到好消息"
+  },
+  {
+    "id": "normal_002",
+    "text": "这次演讲被大家认可，我心里很满足。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "公开表达获得认可"
+  },
+  {
+    "id": "normal_003",
+    "text": "收到录用通知后，我整个人都轻松了。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "求职成功"
+  },
+  {
+    "id": "normal_004",
+    "text": "同事帮我解决了难题，我特别感谢。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "团队协作顺利"
+  },
+  {
+    "id": "normal_005",
+    "text": "新项目推进顺利，让我很有干劲。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "工作进展好"
+  },
+  {
+    "id": "normal_006",
+    "text": "家人送来的消息让我很温暖。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "家庭支持"
+  },
+  {
+    "id": "normal_007",
+    "text": "考试成绩比预期好，我很高兴。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "考试结果理想"
+  },
+  {
+    "id": "normal_008",
+    "text": "这家餐厅的菜很好吃，我很喜欢。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "用餐体验良好"
+  },
+  {
+    "id": "normal_009",
+    "text": "收到朋友的祝福，今天心情格外好。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "朋友祝福"
+  },
+  {
+    "id": "normal_010",
+    "text": "项目被退回修改，我有点沮丧。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "工作受挫"
+  },
+  {
+    "id": "normal_011",
+    "text": "手机又坏了，真让人烦。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "设备故障"
+  },
+  {
+    "id": "normal_012",
+    "text": "我把文件丢了，心情很糟。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "重要文件丢失"
+  },
+  {
+    "id": "normal_013",
+    "text": "临时加班到很晚，整个人都累坏了。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "工作压力大"
+  },
+  {
+    "id": "normal_014",
+    "text": "医生说要继续观察，我有些担心。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "健康焦虑"
+  },
+  {
+    "id": "normal_015",
+    "text": "地铁又晚点了，真的很烦。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "交通延误"
+  },
+  {
+    "id": "normal_016",
+    "text": "朋友忘记了约定，让我有点失望。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "承诺落空"
+  },
+  {
+    "id": "normal_017",
+    "text": "天气太糟，心情也跟着低落。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "天气影响情绪"
+  },
+  {
+    "id": "normal_018",
+    "text": "今天只是例行开会，没有什么特别的波动。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "常规会议"
+  },
+  {
+    "id": "normal_019",
+    "text": "我把文档整理了一遍，然后去吃午饭。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "日常流程"
+  },
+  {
+    "id": "normal_020",
+    "text": "这条消息只是通知，不带明显情绪。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "信息通知"
+  },
+  {
+    "id": "normal_021",
+    "text": "外面在下小雨，路上人不多。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "场景描述"
+  },
+  {
+    "id": "normal_022",
+    "text": "我们按计划完成了今天的任务。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "任务记录"
+  },
+  {
+    "id": "normal_023",
+    "text": "周三晚上我在家看了一会书。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "日常活动"
+  },
+  {
+    "id": "normal_024",
+    "text": "会议持续了四十分钟，内容主要是汇报。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "会议概况"
+  },
+  {
+    "id": "normal_025",
+    "text": "食堂今天提供了和往常一样的菜单。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "平淡陈述"
+  }
+]

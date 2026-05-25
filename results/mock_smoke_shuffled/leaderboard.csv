@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score
+Mock,heuristic-mock,20,0.5,0.4643274853801169,0.75,0.4444444444444444,0.5925925925925926

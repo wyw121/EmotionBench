@@ -1,0 +1,43 @@
+{
+  "accuracy": 0.1,
+  "macro_f1": 0.06060606060606061,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      3,
+      0
+    ]
+  ],
+  "per_type_accuracy": {
+    "metaphor": 0.3333333333333333,
+    "sarcasm": 0.0,
+    "normal": 0.0,
+    "adversarial": 0.0
+  },
+  "support": {
+    "negative": 6,
+    "neutral": 1,
+    "positive": 3
+  },
+  "normal_accuracy": 0.0,
+  "adversarial_accuracy": 0.1111111111111111,
+  "robustness_score": 0.0,
+  "provider": "OpenRouter",
+  "model": "[芝士]gemini-3-pro-preview",
+  "num_samples": 10
+}

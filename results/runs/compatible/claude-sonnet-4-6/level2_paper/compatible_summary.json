@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.9900990099009901,
+  "strict_accuracy": 0.9900990099009901,
+  "macro_f1": 0.9861050803300043,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      53,
+      0,
+      0
+    ],
+    [
+      0,
+      24,
+      1
+    ],
+    [
+      0,
+      0,
+      23
+    ]
+  ],
+  "per_type_accuracy": {
+    "metaphor": 0.9629629629629629,
+    "sarcasm": 1.0,
+    "normal": 1.0,
+    "adversarial": 1.0
+  },
+  "format_valid_rate": 1.0,
+  "invalid_output_count": 0,
+  "support": {
+    "negative": 53,
+    "neutral": 25,
+    "positive": 23
+  },
+  "normal_accuracy": 1.0,
+  "adversarial_accuracy": 0.9876543209876543,
+  "robustness_score": 0.9876543209876543,
+  "provider": "OpenAI-Compatible",
+  "model": "claude-sonnet-4-6",
+  "num_samples": 101,
+  "prompt": "baseline.txt"
+}

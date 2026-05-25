@@ -1,0 +1,8 @@
+[
+  {"id": "sarcasm_001", "text": "谢谢你哈🙂，让我等了两个小时。", "label": "negative", "type": "sarcasm", "difficulty": "hard", "context": "用户在吐槽客服迟到"},
+  {"id": "sarcasm_002", "text": "你可真会照顾人。", "label": "negative", "type": "sarcasm", "difficulty": "hard", "context": "朋友忘了帮忙"},
+  {"id": "sarcasm_003", "text": "这服务真棒，排队排到天荒地老。", "label": "negative", "type": "sarcasm", "difficulty": "hard", "context": "医院挂号体验"},
+  {"id": "sarcasm_004", "text": "哇，今天又准时下班了呢，感动。", "label": "negative", "type": "sarcasm", "difficulty": "medium", "context": "加班抱怨"},
+  {"id": "sarcasm_005", "text": "Nice job, the app crashed right before submit.", "label": "negative", "type": "sarcasm", "difficulty": "medium", "context": "提交表单时程序崩溃"},
+  {"id": "sarcasm_006", "text": "真是个完美的安排，雨天停电。", "label": "negative", "type": "sarcasm", "difficulty": "hard", "context": "天气与停电同时发生"}
+]

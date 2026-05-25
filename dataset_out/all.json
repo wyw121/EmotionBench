@@ -1,0 +1,194 @@
+[
+  {
+    "id": "adv_001",
+    "text": "谢谢你哈🙂，方案写得真‘周到’。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "引号反语 + emoji"
+  },
+  {
+    "id": "adv_002",
+    "text": "这波操作太6了吧，文档直接删光。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "网络语言 + 负面行为"
+  },
+  {
+    "id": "adv_003",
+    "text": "Great, the update broke everything again.",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "英文反讽"
+  },
+  {
+    "id": "adv_004",
+    "text": "你居然还记得交作业，真令人意外。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "medium",
+    "context": "表面肯定，真实贬义"
+  },
+  {
+    "id": "adv_005",
+    "text": "今天心情像掉进了冰箱。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "medium",
+    "context": "隐喻负面情绪"
+  },
+  {
+    "id": "adv_006",
+    "text": "当然啦，凌晨三点开会最适合提高效率。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "讽刺加班文化"
+  },
+  {
+    "id": "metaphor_001",
+    "text": "他的回复像冬天的铁门。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "回复冷淡"
+  },
+  {
+    "id": "metaphor_002",
+    "text": "她的笑容像春天的阳光。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "描述温暖感受"
+  },
+  {
+    "id": "metaphor_003",
+    "text": "那句话像一把慢慢合上的刀。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "语言伤害"
+  },
+  {
+    "id": "metaphor_004",
+    "text": "会议室像一口平静的井。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "会议氛围平稳"
+  },
+  {
+    "id": "metaphor_005",
+    "text": "失败像一块石头压在胸口。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "挫败感"
+  },
+  {
+    "id": "metaphor_006",
+    "text": "她的话让整个房间亮了一下。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "情绪被点亮"
+  },
+  {
+    "id": "normal_001",
+    "text": "今天拿到奖学金，我真的很开心。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "学生收到好消息"
+  },
+  {
+    "id": "normal_002",
+    "text": "天气一般，但心情还算平静。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "日常状态描述"
+  },
+  {
+    "id": "normal_003",
+    "text": "项目延期让我有点失落。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "工作受挫"
+  },
+  {
+    "id": "normal_004",
+    "text": "这家餐厅的菜很好吃。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "用餐评价"
+  },
+  {
+    "id": "normal_005",
+    "text": "今天开会很普通，没有特别的感觉。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "会议反馈"
+  },
+  {
+    "id": "normal_006",
+    "text": "手机又坏了，真让人烦。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "设备故障"
+  },
+  {
+    "id": "sarcasm_001",
+    "text": "谢谢你哈🙂，让我等了两个小时。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "用户在吐槽客服迟到"
+  },
+  {
+    "id": "sarcasm_002",
+    "text": "你可真会照顾人。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "朋友忘了帮忙"
+  },
+  {
+    "id": "sarcasm_003",
+    "text": "这服务真棒，排队排到天荒地老。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "医院挂号体验"
+  },
+  {
+    "id": "sarcasm_004",
+    "text": "哇，今天又准时下班了呢，感动。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "medium",
+    "context": "加班抱怨"
+  },
+  {
+    "id": "sarcasm_005",
+    "text": "Nice job, the app crashed right before submit.",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "medium",
+    "context": "提交表单时程序崩溃"
+  },
+  {
+    "id": "sarcasm_006",
+    "text": "真是个完美的安排，雨天停电。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "天气与停电同时发生"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {"id": "metaphor_001", "text": "他的回复像冬天的铁门。", "label": "negative", "type": "metaphor", "difficulty": "hard", "context": "回复冷淡"},
+  {"id": "metaphor_002", "text": "她的笑容像春天的阳光。", "label": "positive", "type": "metaphor", "difficulty": "medium", "context": "描述温暖感受"},
+  {"id": "metaphor_003", "text": "那句话像一把慢慢合上的刀。", "label": "negative", "type": "metaphor", "difficulty": "hard", "context": "语言伤害"},
+  {"id": "metaphor_004", "text": "会议室像一口平静的井。", "label": "neutral", "type": "metaphor", "difficulty": "medium", "context": "会议氛围平稳"},
+  {"id": "metaphor_005", "text": "失败像一块石头压在胸口。", "label": "negative", "type": "metaphor", "difficulty": "hard", "context": "挫败感"},
+  {"id": "metaphor_006", "text": "她的话让整个房间亮了一下。", "label": "positive", "type": "metaphor", "difficulty": "medium", "context": "情绪被点亮"}
+]

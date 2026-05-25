@@ -1,0 +1,810 @@
+[
+  {
+    "id": "normal_001",
+    "text": "今天拿到奖学金，我真的很开心。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "学生收到好消息"
+  },
+  {
+    "id": "normal_002",
+    "text": "这次演讲被大家认可，我心里很满足。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "公开表达获得认可"
+  },
+  {
+    "id": "normal_003",
+    "text": "收到录用通知后，我整个人都轻松了。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "求职成功"
+  },
+  {
+    "id": "normal_004",
+    "text": "同事帮我解决了难题，我特别感谢。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "团队协作顺利"
+  },
+  {
+    "id": "normal_005",
+    "text": "新项目推进顺利，让我很有干劲。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "工作进展好"
+  },
+  {
+    "id": "normal_006",
+    "text": "家人送来的消息让我很温暖。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "家庭支持"
+  },
+  {
+    "id": "normal_007",
+    "text": "考试成绩比预期好，我很高兴。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "考试结果理想"
+  },
+  {
+    "id": "normal_008",
+    "text": "这家餐厅的菜很好吃，我很喜欢。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "用餐体验良好"
+  },
+  {
+    "id": "normal_009",
+    "text": "收到朋友的祝福，今天心情格外好。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "朋友祝福"
+  },
+  {
+    "id": "normal_010",
+    "text": "项目被退回修改，我有点沮丧。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "工作受挫"
+  },
+  {
+    "id": "normal_011",
+    "text": "手机又坏了，真让人烦。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "设备故障"
+  },
+  {
+    "id": "normal_012",
+    "text": "我把文件丢了，心情很糟。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "重要文件丢失"
+  },
+  {
+    "id": "normal_013",
+    "text": "临时加班到很晚，整个人都累坏了。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "工作压力大"
+  },
+  {
+    "id": "normal_014",
+    "text": "医生说要继续观察，我有些担心。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "健康焦虑"
+  },
+  {
+    "id": "normal_015",
+    "text": "地铁又晚点了，真的很烦。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "交通延误"
+  },
+  {
+    "id": "normal_016",
+    "text": "朋友忘记了约定，让我有点失望。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "承诺落空"
+  },
+  {
+    "id": "normal_017",
+    "text": "天气太糟，心情也跟着低落。",
+    "label": "negative",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "天气影响情绪"
+  },
+  {
+    "id": "normal_018",
+    "text": "今天只是例行开会，没有什么特别的波动。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "常规会议"
+  },
+  {
+    "id": "normal_019",
+    "text": "我把文档整理了一遍，然后去吃午饭。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "日常流程"
+  },
+  {
+    "id": "normal_020",
+    "text": "这条消息只是通知，不带明显情绪。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "信息通知"
+  },
+  {
+    "id": "normal_021",
+    "text": "外面在下小雨，路上人不多。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "场景描述"
+  },
+  {
+    "id": "normal_022",
+    "text": "我们按计划完成了今天的任务。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "任务记录"
+  },
+  {
+    "id": "normal_023",
+    "text": "周三晚上我在家看了一会书。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "日常活动"
+  },
+  {
+    "id": "normal_024",
+    "text": "会议持续了四十分钟，内容主要是汇报。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "会议概况"
+  },
+  {
+    "id": "normal_025",
+    "text": "食堂今天提供了和往常一样的菜单。",
+    "label": "neutral",
+    "type": "normal",
+    "difficulty": "medium",
+    "context": "平淡陈述"
+  },
+  {
+    "id": "metaphor_001",
+    "text": "她的笑容像春天的阳光。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "温暖感受"
+  },
+  {
+    "id": "metaphor_002",
+    "text": "那句鼓励像一盏灯，照亮了我的路。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "被鼓励"
+  },
+  {
+    "id": "metaphor_003",
+    "text": "他的支持像一阵顺风，把我推向前方。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "支持带来帮助"
+  },
+  {
+    "id": "metaphor_004",
+    "text": "这个想法像打开了一扇窗。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "灵感涌现"
+  },
+  {
+    "id": "metaphor_005",
+    "text": "老师的点评像一把钥匙，帮我找到了答案。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "学习突破"
+  },
+  {
+    "id": "metaphor_006",
+    "text": "团队合作像一条顺流的河。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "协作顺畅"
+  },
+  {
+    "id": "metaphor_007",
+    "text": "她的话让整个房间亮了一下。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "情绪被点亮"
+  },
+  {
+    "id": "metaphor_008",
+    "text": "这次成功像一块落地的石头，让人安心。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "成功带来安定"
+  },
+  {
+    "id": "metaphor_009",
+    "text": "他的建议像一阵暖风，吹散了我的焦虑。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "缓解压力"
+  },
+  {
+    "id": "metaphor_010",
+    "text": "他的回复像冬天的铁门。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "回复冷淡"
+  },
+  {
+    "id": "metaphor_011",
+    "text": "那句话像一把慢慢合上的刀。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "语言伤害"
+  },
+  {
+    "id": "metaphor_012",
+    "text": "失败像一块石头压在胸口。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "挫败感"
+  },
+  {
+    "id": "metaphor_013",
+    "text": "她的态度像一堵冰冷的墙。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "关系疏离"
+  },
+  {
+    "id": "metaphor_014",
+    "text": "争吵像一场没有尽头的雨。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "冲突持续"
+  },
+  {
+    "id": "metaphor_015",
+    "text": "压力像潮水一样涌上来。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "压力累积"
+  },
+  {
+    "id": "metaphor_016",
+    "text": "那份报告像一团打结的线。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "混乱感"
+  },
+  {
+    "id": "metaphor_017",
+    "text": "他的沉默像关掉了所有灯。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "沉默压迫"
+  },
+  {
+    "id": "metaphor_018",
+    "text": "心里的不安像一只不停敲门的鸟。",
+    "label": "negative",
+    "type": "metaphor",
+    "difficulty": "hard",
+    "context": "焦虑感"
+  },
+  {
+    "id": "metaphor_019",
+    "text": "会议像一条平静的河，缓慢流过。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "平稳会议"
+  },
+  {
+    "id": "metaphor_020",
+    "text": "这个过程像拼图一样，按部就班。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "流程描述"
+  },
+  {
+    "id": "metaphor_021",
+    "text": "消息像一张白纸，没有额外颜色。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "信息中性"
+  },
+  {
+    "id": "metaphor_022",
+    "text": "时间像钟摆一样来回摆动。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "时间描写"
+  },
+  {
+    "id": "metaphor_023",
+    "text": "他的回答像一面镜子，照出原样。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "原样反馈"
+  },
+  {
+    "id": "metaphor_024",
+    "text": "房间里的空气像静止的水。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "环境描写"
+  },
+  {
+    "id": "metaphor_025",
+    "text": "这段话像说明书，主要是步骤。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "说明性内容"
+  },
+  {
+    "id": "metaphor_026",
+    "text": "日程表像一列整齐的车厢。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "安排整齐"
+  },
+  {
+    "id": "metaphor_027",
+    "text": "讨论像一条直线，没有明显起伏。",
+    "label": "neutral",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "讨论平稳"
+  },
+  {
+    "id": "sarcasm_001",
+    "text": "谢谢你哈🙂，让我等了两个小时。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "用户在吐槽客服迟到"
+  },
+  {
+    "id": "sarcasm_002",
+    "text": "你可真会照顾人。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "朋友忘了帮忙"
+  },
+  {
+    "id": "sarcasm_003",
+    "text": "这服务真棒，排队排到天荒地老。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "医院挂号体验"
+  },
+  {
+    "id": "sarcasm_004",
+    "text": "哇，今天又准时下班了呢，感动。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "加班抱怨"
+  },
+  {
+    "id": "sarcasm_005",
+    "text": "Great, the app crashed right before submit.",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "提交表单时程序崩溃"
+  },
+  {
+    "id": "sarcasm_006",
+    "text": "真是个完美的安排，雨天停电。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "天气与停电同时发生"
+  },
+  {
+    "id": "sarcasm_007",
+    "text": "哦，太体贴了，通知只发给了群里没发给我。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "消息遗漏"
+  },
+  {
+    "id": "sarcasm_008",
+    "text": "你这效率可真高，三天的活拖了三周。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "项目拖延"
+  },
+  {
+    "id": "sarcasm_009",
+    "text": "真贴心，把我的备注全删了。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "文档被误删"
+  },
+  {
+    "id": "sarcasm_010",
+    "text": "当然啦，凌晨三点开会最适合提高效率。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "讽刺加班文化"
+  },
+  {
+    "id": "sarcasm_011",
+    "text": "这下好了，机器又一次优雅地罢工。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "设备故障"
+  },
+  {
+    "id": "sarcasm_012",
+    "text": "太厉害了，邮件发错对象这事都能做得这么熟练。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "发送失误"
+  },
+  {
+    "id": "sarcasm_013",
+    "text": "你这安排简直让人想给你鼓掌。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "临时改期"
+  },
+  {
+    "id": "sarcasm_014",
+    "text": "Nice job, the update broke everything again.",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "英文反讽"
+  },
+  {
+    "id": "sarcasm_015",
+    "text": "真会挑时间，最忙的时候通知我。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "时间点不合适"
+  },
+  {
+    "id": "sarcasm_016",
+    "text": "这可太周到了，直接把我忘了。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "被忽略"
+  },
+  {
+    "id": "sarcasm_017",
+    "text": "好家伙，改完之后连原来的问题都找不到了。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "改错问题"
+  },
+  {
+    "id": "sarcasm_018",
+    "text": "谢谢啊，真是‘高效’到让我无话可说。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "引号反讽"
+  },
+  {
+    "id": "sarcasm_019",
+    "text": "呵呵，真不错，数据全丢了。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "数据丢失"
+  },
+  {
+    "id": "sarcasm_020",
+    "text": "我当然相信这次不会再出错——毕竟已经错过两次了。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "重复失误"
+  },
+  {
+    "id": "sarcasm_021",
+    "text": "嗯，挺好，流程就是这样。",
+    "label": "neutral",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "无额外情绪"
+  },
+  {
+    "id": "sarcasm_022",
+    "text": "行吧，按原计划继续。",
+    "label": "neutral",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "保持中性"
+  },
+  {
+    "id": "sarcasm_023",
+    "text": "好的，收到。",
+    "label": "neutral",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "简短确认"
+  },
+  {
+    "id": "sarcasm_024",
+    "text": "那就先记录一下这个结果。",
+    "label": "neutral",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "信息记录"
+  },
+  {
+    "id": "sarcasm_025",
+    "text": "明白了，我们稍后再讨论。",
+    "label": "neutral",
+    "type": "sarcasm",
+    "difficulty": "hard",
+    "context": "延后讨论"
+  },
+  {
+    "id": "adv_001",
+    "text": "谢谢你哈🙂，方案写得真‘周到’。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "引号反语 + emoji"
+  },
+  {
+    "id": "adv_002",
+    "text": "这波操作太6了吧，文档直接删光。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "网络语言 + 负面行为"
+  },
+  {
+    "id": "adv_003",
+    "text": "Great, the update broke everything again.",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "英文反讽"
+  },
+  {
+    "id": "adv_004",
+    "text": "你居然还记得交作业，真令人意外。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "表面肯定，真实贬义"
+  },
+  {
+    "id": "adv_005",
+    "text": "今天心情像掉进了冰箱。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "隐喻负面情绪"
+  },
+  {
+    "id": "adv_006",
+    "text": "当然啦，凌晨三点开会最适合提高效率。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "讽刺加班文化"
+  },
+  {
+    "id": "adv_007",
+    "text": "谢谢啊，真是‘高效’到让我无话可说。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "引号反讽"
+  },
+  {
+    "id": "adv_008",
+    "text": "Nice, the server died right when I clicked submit.",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "代码混杂"
+  },
+  {
+    "id": "adv_009",
+    "text": "你这安排简直像把我扔进冰水里。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "隐喻 + 反讽"
+  },
+  {
+    "id": "adv_010",
+    "text": "哇塞，这个修复真是把问题修得更大了。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "口语化反语"
+  },
+  {
+    "id": "adv_011",
+    "text": "服务好到让我想重新排一次队。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "表面正向，真实负向"
+  },
+  {
+    "id": "adv_012",
+    "text": "太妙了，报错信息比答案还完整。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "技术场景反语"
+  },
+  {
+    "id": "adv_013",
+    "text": "真贴心，连反馈都替我删了。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "负面行为 + 反讽"
+  },
+  {
+    "id": "adv_014",
+    "text": "I love when the deadline moves earlier again.",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "英语反语"
+  },
+  {
+    "id": "adv_015",
+    "text": "你可真体贴，把最关键的附件漏掉了。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "遗漏附件"
+  },
+  {
+    "id": "adv_016",
+    "text": "这就叫效率？那我宁愿慢一点。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "反问式否定"
+  },
+  {
+    "id": "adv_017",
+    "text": "今天的更新像一盏暖灯，终于稳定了。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "带emoji的积极样本🙂"
+  },
+  {
+    "id": "adv_018",
+    "text": "这次协作像顺风一样轻松。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "隐喻正向"
+  },
+  {
+    "id": "adv_019",
+    "text": "收到你的帮助后，我真的松了一口气。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "帮助带来正向情绪"
+  },
+  {
+    "id": "adv_020",
+    "text": "会议虽然拖了一点，但结论很清楚。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "中英混杂 + 正向结果"
+  },
+  {
+    "id": "adv_021",
+    "text": "The fix actually solved the issue, nice work.",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "英文正向"
+  },
+  {
+    "id": "adv_022",
+    "text": "消息已经发出，等待后续处理。",
+    "label": "neutral",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "过程陈述"
+  },
+  {
+    "id": "adv_023",
+    "text": "这个结果既不意外，也不特别。",
+    "label": "neutral",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "中性评价"
+  },
+  {
+    "id": "adv_024",
+    "text": "数据按顺序整理好了。",
+    "label": "neutral",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "操作记录"
+  }
+]

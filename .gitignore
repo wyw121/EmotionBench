@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+results/latest_summary.json
+results/charts/*.png

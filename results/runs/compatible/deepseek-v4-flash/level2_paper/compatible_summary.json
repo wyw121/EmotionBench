@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.9504950495049505,
+  "strict_accuracy": 0.9405940594059405,
+  "macro_f1": 0.9523722293460342,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      49,
+      4,
+      0
+    ],
+    [
+      1,
+      24,
+      0
+    ],
+    [
+      0,
+      0,
+      23
+    ]
+  ],
+  "per_type_accuracy": {
+    "metaphor": 0.9259259259259259,
+    "sarcasm": 0.92,
+    "normal": 1.0,
+    "adversarial": 0.9583333333333334
+  },
+  "format_valid_rate": 0.9504950495049505,
+  "invalid_output_count": 5,
+  "support": {
+    "negative": 53,
+    "neutral": 25,
+    "positive": 23
+  },
+  "normal_accuracy": 1.0,
+  "adversarial_accuracy": 0.9347530864197532,
+  "robustness_score": 0.9347530864197532,
+  "provider": "OpenAI-Compatible",
+  "model": "deepseek-v4-flash",
+  "num_samples": 101,
+  "prompt": "baseline.txt"
+}

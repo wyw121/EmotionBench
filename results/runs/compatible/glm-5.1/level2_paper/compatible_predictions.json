@@ -1,0 +1,507 @@
+[
+  {
+    "id": "metaphor_020",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the text given the context.\n    *   Input Text: \"这个过程像拼图一样，按部就班。\" (This process is like a jigsaw puzzle, step by step.)\n    *   Context:"
+  },
+  {
+    "id": "metaphor_008",
+    "prediction": "positive",
+    "raw_output": "1.  **分析请求**：\n    *   角色：情感理解评测模型专家。\n    *   任务：结合“文本”和“上下文”判断真实情感。\n    *   输出限制：只能输出一个标签（positive, neutral, negative），不能有任何其他字符。\n    *"
+  },
+  {
+    "id": "sarcasm_012",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text in context.\n    *   Input: Text (\"太厉害了，邮件发错对象这事都能做得这么熟练。\") and Context (\"发送失误\").\n    *   Output: Exactly one label from"
+  },
+  {
+    "id": "normal_010",
+    "prediction": "neutral",
+    "raw_output": "1.  **分析输入**：\n    *   文本：项目被退回修改，我有点沮丧。\n    *   上下文：工作受挫\n2.  **理解语义**：\n    *   文本明确表达了“项目被退回修改”（负面事件）和“我有点"
+  },
+  {
+    "id": "sarcasm_015",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"真会挑时间，最忙的时候通知我。\" (Really knows how to pick a time, notifying me when I'm the busiest.)"
+  },
+  {
+    "id": "metaphor_006",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"团队合作像一条顺流的河。\" (Teamwork is like a river flowing downstream/smoothly.)\n    *   Input Context: \"协作"
+  },
+  {
+    "id": "normal_002",
+    "prediction": "positive",
+    "raw_output": "1.  **分析请求**：\n    *   角色：情感理解评测助手。\n    *   任务：结合“文本”和“上下文”判断真实情感。\n    *   输出格式：仅输出一个标签（positive, neutral, negative），无任何其他字符。\n    *   特"
+  },
+  {
+    "id": "adv_002",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input Text: \"这波操作太6了吧，文档直接删光。\" (This operation is too 6, right? Deleted all the documents directly.)"
+  },
+  {
+    "id": "normal_016",
+    "prediction": "positive",
+    "raw_output": "1.  **分析请求**：\n    *   角色：情感理解评测模型。\n    *   任务：结合“文本”和“上下文”判断真实情感。\n    *   输出限制：只能输出一个标签（positive, neutral, negative），不能有任何其他字符。\n    *   特"
+  },
+  {
+    "id": "adv_003",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"Great, the update broke everything again.\"\n    *   Context: \"英文反讽\" (English sarcasm/irony).\n    *"
+  },
+  {
+    "id": "sarcasm_022",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"行吧，按原计划继续。\" (Alright, let's continue according to the original plan.)\n    *   Input Context: \"保持"
+  },
+  {
+    "id": "normal_011",
+    "prediction": "neutral",
+    "raw_output": "1.  **分析输入**：\n    *   文本：手机又坏了，真让人烦。\n    *   上下文：设备故障\n2.  **理解语义**：\n    *   “手机又坏了”表示遇到了设备故障，这是一个负面的客观事件。\n    *   “真"
+  },
+  {
+    "id": "adv_024",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true sentiment of the given text in context.\n    *   Input: Text (\"数据按顺序整理好了。\") and Context (\"操作记录\").\n    *   Output: Exactly one label from: positive, neutral, negative.\n    *"
+  },
+  {
+    "id": "metaphor_018",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"心里的不安像一只不停敲门的鸟。\" (The uneasiness in my heart is like a bird constantly knocking on the door.)"
+  },
+  {
+    "id": "sarcasm_004",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text based on its context.\n    *   Input: Text (\"哇，今天又准时下班了呢，感动。\") and Context (\"加班抱怨\" - complaining about overtime).\n    *   Output: Exactly"
+  },
+  {
+    "id": "metaphor_017",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input: Text (\"他的沉默像关掉了所有灯。\") + Context (\"沉默压迫\").\n    *   Output constraint: Exactly one label from {positive,"
+  },
+  {
+    "id": "metaphor_025",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text combined with its context.\n    *   Input Text: \"这段话像说明书，主要是步骤。\" (This passage is like a manual, mainly steps.)\n    *   Input Context: \""
+  },
+  {
+    "id": "adv_019",
+    "prediction": "positive",
+    "raw_output": "1.  **分析请求**：\n    *   角色：情感理解评测助手。\n    *   任务：结合“文本”和“上下文”判断真实情感。\n    *   输出限制：只能输出一个标签（positive, neutral, negative），不能有任何其他字符。\n    *   特"
+  },
+  {
+    "id": "sarcasm_023",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text combined with its context.\n    *   Input Text: \"好的，收到。\" (Okay, received/understood.)\n    *   Input Context: \"简短确认\" (Brief confirmation"
+  },
+  {
+    "id": "sarcasm_005",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"Great, the app crashed right before submit.\"\n    *   Input Context: \"提交表单时程序崩溃\" (The app crashed when"
+  },
+  {
+    "id": "sarcasm_007",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text based on its context.\n    *   Input Text: \"哦，太体贴了，通知只发给了群里没发给我。\" (Oh, so considerate, the notice was only"
+  },
+  {
+    "id": "normal_009",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"收到朋友的祝福，今天心情格外好。\" (Received blessings from a friend, feeling exceptionally good today.)\n    *   Input Context: \""
+  },
+  {
+    "id": "normal_022",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true sentiment of the given text based on the text and its context.\n    *   Input Text: \"我们按计划完成了今天的任务。\" (We completed today's tasks as planned.)\n    *   Input Context: \"任务记录\""
+  },
+  {
+    "id": "metaphor_009",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the text combined with its context.\n    *   Input Text: \"他的建议像一阵暖风，吹散了我的焦虑。\" (His advice was like a warm breeze, blowing away my anxiety.)\n    *"
+  },
+  {
+    "id": "adv_004",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on the text and context.\n    *   Input Text: \"你居然还记得交作业，真令人意外。\" (You actually remembered to hand in the homework, what a surprise.)\n    *"
+  },
+  {
+    "id": "sarcasm_014",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"Nice job, the update broke everything again.\"\n    *   Context: \"英文反讽\" (English sarcasm/irony)."
+  },
+  {
+    "id": "sarcasm_001",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text based on the text and its context.\n    *   Input Text: \"谢谢你哈🙂，让我等了两个小时。\" (Thank you 🙂, making me wait for two hours.)\n    *"
+  },
+  {
+    "id": "adv_008",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input: Text (\"Nice, the server died right when I clicked submit.\") and Context (\"代码混杂\" - code mixing/mixed code context, implying a programming"
+  },
+  {
+    "id": "metaphor_002",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input: Text (\"那句鼓励像一盏灯，照亮了我的路。\") and Context (\"被鼓励\").\n    *   Output: Exactly one label from:"
+  },
+  {
+    "id": "sarcasm_019",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"呵呵，真不错，数据全丢了。\" (Hehe, really nice, all data is lost.)\n    *   Context: 数据丢失"
+  },
+  {
+    "id": "metaphor_026",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text combined with its context.\n    *   Input Text: \"日程表像一列整齐的车厢。\" (The schedule is like a neat row of train carriages.)\n    *   Input"
+  },
+  {
+    "id": "adv_017",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true sentiment of the text combined with its context.\n    *   Input Text: \"今天的更新像一盏暖灯，终于稳定了。\" (Today's update is like a warm lamp, finally stable.)\n    *   Context:"
+  },
+  {
+    "id": "metaphor_024",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a text given its context.\n    *   Labels allowed: positive, neutral, negative.\n    *   Constraint: Output ONLY the label. No explanations, prefixes, quotes, markdown, etc.\n    *   Special"
+  },
+  {
+    "id": "sarcasm_009",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input: Text (\"真贴心，把我的备注全删了。\") and Context (\"文档被误删\").\n    *   Output: Exactly one label from"
+  },
+  {
+    "id": "metaphor_013",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input: Text (\"她的态度像一堵冰冷的墙。\") and Context (\"关系疏离\").\n    *   Output: Exactly one label from: positive"
+  },
+  {
+    "id": "metaphor_023",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on the text and its context.\n    *   Input Text: \"他的回答像一面镜子，照出原样。\" (His answer is like a mirror, reflecting the original appearance.)"
+  },
+  {
+    "id": "metaphor_021",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text and context.\n    *   Input Text: \"消息像一张白纸，没有额外颜色。\" (The message is like a blank sheet of paper, with no extra colors.)\n    *   Input"
+  },
+  {
+    "id": "adv_023",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"这个结果既不意外，也不特别。\" (This result is neither unexpected nor special.)\n    *   Context: \"中性评价\" ("
+  },
+  {
+    "id": "adv_012",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"太妙了，报错信息比答案还完整。\" (How wonderful, the error message is more complete than the answer.)\n    *"
+  },
+  {
+    "id": "adv_015",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"你可真体贴，把最关键的附件漏掉了。\" (You are so considerate, leaving out the most crucial attachment.)\n    *"
+  },
+  {
+    "id": "normal_013",
+    "prediction": "neutral",
+    "raw_output": "1.  **分析输入**：\n    *   文本：临时加班到很晚，整个人都累坏了。\n    *   上下文：工作压力大\n2.  **理解语义**：\n    *   文本字面意思：因为临时加班到很晚，感觉非常疲惫。"
+  },
+  {
+    "id": "metaphor_012",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"失败像一块石头压在胸口。\" (Failure is like a stone pressing on my chest.)\n    *   Context: \"挫败感"
+  },
+  {
+    "id": "normal_024",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text based on the text and context.\n    *   Input Text: \"会议持续了四十分钟，内容主要是汇报。\" (The meeting lasted for forty minutes, and the content was mainly reporting"
+  },
+  {
+    "id": "metaphor_015",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input: Text (\"压力像潮水一样涌上来。\") and Context (\"压力累积\").\n    *   Output: Exactly one label from: positive, neutral"
+  },
+  {
+    "id": "metaphor_016",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment based on the \"Text\" and \"Context\".\n    *   Input Text: \"那份报告像一团打结的线。\" (That report is like a tangled ball of yarn/thread.)\n    *   Input"
+  },
+  {
+    "id": "normal_019",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text combined with its context.\n    *   Input Text: \"我把文档整理了一遍，然后去吃午饭。\" (I organized the documents once, and then went to eat lunch.)\n    *"
+  },
+  {
+    "id": "sarcasm_016",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on its context.\n    *   Input Text: \"这可太周到了，直接把我忘了。\" (This is so thoughtful, directly forgot about me.)\n    *   Input Context: \""
+  },
+  {
+    "id": "sarcasm_011",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"这下好了，机器又一次优雅地罢工。\" (Great, the machine went on strike elegantly once again.)\n    *   Input Context"
+  },
+  {
+    "id": "sarcasm_010",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text in context.\n    *   Input: Text (\"当然啦，凌晨三点开会最适合提高效率。\") and Context (\"讽刺加班文化\" - satirizing overtime culture).\n    *   Output:"
+  },
+  {
+    "id": "normal_008",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text and context.\n    *   Input: Text (\"这家餐厅的菜很好吃，我很喜欢。\") and Context (\"用餐体验良好\").\n    *   Output: Exactly one label from: positive,"
+  },
+  {
+    "id": "metaphor_010",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input: Text (\"他的回复像冬天的铁门。\") + Context (\"回复冷淡\").\n    *   Output: One of three labels: positive, neutral"
+  },
+  {
+    "id": "adv_006",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_022",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on its context.\n    *   Input Text: \"时间像钟摆一样来回摆动。\" (Time swings back and forth like a pendulum.)\n    *   Context: \"时间描写"
+  },
+  {
+    "id": "normal_003",
+    "prediction": "neutral",
+    "raw_output": "1.  **分析输入**：\n    *   文本：收到录用通知后，我整个人都轻松了。\n    *   上下文：求职成功\n2.  **理解语义**：\n    *   “收到录用通知”对应上下文“求职成功”。\n    *   “整个人"
+  },
+  {
+    "id": "metaphor_027",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment based on the provided \"Text\" and \"Context\".\n    *   Output constraint: Exactly one label from {positive, neutral, negative}. No extra characters, explanations, or formatting.\n    *   Special instruction: Account"
+  },
+  {
+    "id": "normal_017",
+    "prediction": "positive",
+    "raw_output": "1.  **分析请求**：\n    *   角色：情感理解评测模型专家。\n    *   任务：结合“文本”和“上下文”判断真实情感。\n    *   输出格式：仅输出一个标签（positive, neutral, negative），无任何其他字符。\n    *"
+  },
+  {
+    "id": "metaphor_014",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"争吵像一场没有尽头的雨。\" (Arguments are like an endless rain.)\n    *   Input Context: \"冲突持续\" (Conflict"
+  },
+  {
+    "id": "sarcasm_008",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"你这效率可真高，三天的活拖了三周。\" (Your efficiency is really high, taking three weeks for a three-day"
+  },
+  {
+    "id": "sarcasm_025",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input: Text (\"明白了，我们稍后再讨论。\") and Context (\"延后讨论\").\n    *   Output: Exactly one label from: positive, neutral"
+  },
+  {
+    "id": "normal_023",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"周三晚上我在家看了一会书。\" (I read a book at home for a while on Wednesday evening.)\n    *   Context:"
+  },
+  {
+    "id": "normal_007",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment based on the \"Text\" and \"Context\".\n    *   Allowed Labels: positive, neutral, negative.\n    *   Constraint: Output *only* the label. No explanations, prefixes, quotes, markdown, etc"
+  },
+  {
+    "id": "normal_025",
+    "prediction": "neutral",
+    "raw_output": "1.  **分析输入**：\n    *   文本：食堂今天提供了和往常一样的菜单。\n    *   上下文：平淡陈述\n2.  **理解语义**：\n    *   文本字面意思：食堂的菜单没有变化，和平时一样。\n    *   上下"
+  },
+  {
+    "id": "normal_006",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text in context.\n    *   Input: Text (\"家人送来的消息让我很温暖。\") and Context (\"家庭支持\").\n    *   Output: Exactly one label from: positive, neutral, negative"
+  },
+  {
+    "id": "adv_016",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on its context.\n    *   Input Text: \"这就叫效率？那我宁愿慢一点。\" (This is called efficiency? Then I'd rather be slower.)\n    *   Context: 反"
+  },
+  {
+    "id": "sarcasm_017",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text in context.\n    *   Input: Text (\"好家伙，改完之后连原来的问题都找不到了。\") and Context (\"改错问题\").\n    *   Output: Exactly one label"
+  },
+  {
+    "id": "adv_007",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"谢谢啊，真是‘高效’到让我无话可说。\" (Thanks, really 'efficient' to the point where I'm speech"
+  },
+  {
+    "id": "normal_020",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"这条消息只是通知，不带明显情绪。\" (This message is just a notification, without obvious emotion.)\n    *   Input Context: \""
+  },
+  {
+    "id": "sarcasm_021",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering context.\n    *   Input Text: \"嗯，挺好，流程就是这样。\" (Hmm, quite good, the process is just like this.)\n    *   Context: \"无额外情绪"
+  },
+  {
+    "id": "metaphor_019",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text in context.\n    *   Input: Text (\"会议像一条平静的河，缓慢流过。\") and Context (\"平稳会议\").\n    *   Output: Exactly one label from:"
+  },
+  {
+    "id": "adv_011",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"服务好到让我想重新排一次队。\" (The service is so good that it makes me want to queue up again.)\n    *"
+  },
+  {
+    "id": "normal_021",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text based on its context.\n    *   Input Text: \"外面在下小雨，路上人不多。\" (It's drizzling outside, not many people on the road.)\n    *   Context"
+  },
+  {
+    "id": "normal_001",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion of the given text combined with its context.\n    *   Input: Text (\"今天拿到奖学金，我真的很开心。\") and Context (\"学生收到好消息\").\n    *   Output constraint: Only one label from `positive`,"
+  },
+  {
+    "id": "adv_020",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text combined with its context.\n    *   Input Text: \"会议虽然拖了一点，但结论很清楚。\" (Although the meeting dragged on a bit, the conclusion was very clear.)"
+  },
+  {
+    "id": "sarcasm_006",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on the text and its context.\n    *   Input Text: \"真是个完美的安排，雨天停电。\" (What a perfect arrangement, power outage on a rainy day.)\n    *   Input"
+  },
+  {
+    "id": "adv_021",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering context and potential sarcasm/metaphors.\n    *   Input Text: \"The fix actually solved the issue, nice work.\"\n    *   Input Context: \"英文正向\" (English"
+  },
+  {
+    "id": "sarcasm_002",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a text given its context.\n    *   Input: Text (\"你可真会照顾人。\") and Context (\"朋友忘了帮忙\").\n    *   Output: Exactly one label from: positive, neutral, negative."
+  },
+  {
+    "id": "adv_014",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text, considering the context.\n    *   Input Text: \"I love when the deadline moves earlier again.\"\n    *   Context: \"英语反语\" (English irony/sarcasm).\n    *"
+  },
+  {
+    "id": "metaphor_001",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a text given its context.\n    *   Input Text: 她的笑容像春天的阳光。\n    *   Input Context: 温暖感受\n    *   Output Constraint: Exactly one label from `positive`,"
+  },
+  {
+    "id": "sarcasm_020",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_009",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on the text and context.\n    *   Input Text: \"你这安排简直像把我扔进冰水里。\" (Your arrangement is simply like throwing me into ice water.)\n    *   Context"
+  },
+  {
+    "id": "adv_001",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text based on the text and context.\n    *   Input Text: \"谢谢你哈🙂，方案写得真‘周到’。\" (Thank you 🙂, the proposal is written so 'thoughtfully'.)"
+  },
+  {
+    "id": "sarcasm_013",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text in context.\n    *   Input: Text (\"你这安排简直让人想给你鼓掌。\") and Context (\"临时改期\").\n    *   Output: Exactly one label from: positive, neutral"
+  },
+  {
+    "id": "metaphor_005",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the text combined with its context.\n    *   Input Text: \"老师的点评像一把钥匙，帮我找到了答案。\" (The teacher's comment was like a key, helping me find the answer.)\n    *"
+  },
+  {
+    "id": "metaphor_003",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"他的支持像一阵顺风，把我推向前方。\" (His support is like a tailwind, pushing me forward.)\n    *   Input"
+  },
+  {
+    "id": "adv_013",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"真贴心，连反馈都替我删了。\" (So considerate, even deleted my feedback for me.)\n    *   Input Context"
+  },
+  {
+    "id": "adv_022",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment of the given text based on its context.\n    *   Input Text: \"消息已经发出，等待后续处理。\" (The message has been sent, waiting for further processing.)\n    *   Context: \""
+  },
+  {
+    "id": "normal_005",
+    "prediction": "neutral",
+    "raw_output": "1.  **分析输入**：\n    *   文本：新项目推进顺利，让我很有干劲。\n    *   上下文：工作进展好\n2.  **理解语义**：\n    *   文本字面意思：新项目推进顺利，让人感到有动力、有干"
+  },
+  {
+    "id": "sarcasm_003",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text in context.\n    *   Input: Text (\"这服务真棒，排队排到天荒地老。\") and Context (\"医院挂号体验\").\n    *   Output: Exactly one label from"
+  },
+  {
+    "id": "sarcasm_024",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Labels allowed: positive, neutral, negative.\n    *   Constraint: Output *only* the label. No explanations, prefixes, quotes, markdown, etc."
+  },
+  {
+    "id": "normal_012",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"我把文件丢了，心情很糟。\" (I lost the file, I feel terrible.)\n    *   Input Context: \"重要文件丢失"
+  },
+  {
+    "id": "sarcasm_018",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"谢谢啊，真是‘高效’到让我无话可说。\" (Thanks, really 'efficient' to the point where I'm speech"
+  },
+  {
+    "id": "adv_010",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true sentiment of the given text, considering the context.\n    *   Input Text: \"哇塞，这个修复真是把问题修得更大了。\" (Wow, this fix really made the problem even bigger.)\n    *   Context"
+  },
+  {
+    "id": "normal_014",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text combined with its context.\n    *   Input Text: \"医生说要继续观察，我有些担心。\" (The doctor said to continue observing, I am a bit worried.)\n    *   Context:"
+  },
+  {
+    "id": "normal_018",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotion/sentiment based on the \"Text\" and \"Context\".\n    *   Allowed Labels: positive, neutral, negative.\n    *   Constraint: Output *only* the label. No explanations, prefixes, quotes, markdown"
+  },
+  {
+    "id": "metaphor_004",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "metaphor_007",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"她的话让整个房间亮了一下。\" (Her words made the whole room light up for a moment.)\n    *   Input Context: \""
+  },
+  {
+    "id": "metaphor_011",
+    "prediction": "positive",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of a given text based on its context.\n    *   Input: Text (\"那句话像一把慢慢合上的刀。\") and Context (\"语言伤害\").\n    *   Output: Exactly one label from: positive,"
+  },
+  {
+    "id": "adv_018",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the text based on the text and its context.\n    *   Input Text: \"这次协作像顺风一样轻松。\" (This collaboration was as easy as a tailwind/sailing with the wind.)\n    *"
+  },
+  {
+    "id": "normal_004",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "normal_015",
+    "prediction": "neutral",
+    "raw_output": "1.  **分析输入**：\n    *   文本：地铁又晚点了，真的很烦。\n    *   上下文：交通延误\n2.  **理解语义**：\n    *   文本字面意思明确表达了因为地铁晚点（交通延误）而产生的烦躁、不满情绪（"
+  },
+  {
+    "id": "adv_005",
+    "prediction": "neutral",
+    "raw_output": "1.  **Analyze the Request:**\n    *   Task: Determine the true emotional sentiment of the given text combined with its context.\n    *   Input Text: \"今天心情像掉进了冰箱。\" (Today my mood is like falling into a refrigerator.)\n    *   Input Context: \"隐喻负面情绪"
+  }
+]

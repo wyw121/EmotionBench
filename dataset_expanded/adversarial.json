@@ -1,0 +1,194 @@
+[
+  {
+    "id": "adv_001",
+    "text": "谢谢你哈🙂，方案写得真‘周到’。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "引号反语 + emoji"
+  },
+  {
+    "id": "adv_002",
+    "text": "这波操作太6了吧，文档直接删光。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "网络语言 + 负面行为"
+  },
+  {
+    "id": "adv_003",
+    "text": "Great, the update broke everything again.",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "英文反讽"
+  },
+  {
+    "id": "adv_004",
+    "text": "你居然还记得交作业，真令人意外。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "表面肯定，真实贬义"
+  },
+  {
+    "id": "adv_005",
+    "text": "今天心情像掉进了冰箱。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "隐喻负面情绪"
+  },
+  {
+    "id": "adv_006",
+    "text": "当然啦，凌晨三点开会最适合提高效率。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "讽刺加班文化"
+  },
+  {
+    "id": "adv_007",
+    "text": "谢谢啊，真是‘高效’到让我无话可说。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "引号反讽"
+  },
+  {
+    "id": "adv_008",
+    "text": "Nice, the server died right when I clicked submit.",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "代码混杂"
+  },
+  {
+    "id": "adv_009",
+    "text": "你这安排简直像把我扔进冰水里。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "隐喻 + 反讽"
+  },
+  {
+    "id": "adv_010",
+    "text": "哇塞，这个修复真是把问题修得更大了。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "口语化反语"
+  },
+  {
+    "id": "adv_011",
+    "text": "服务好到让我想重新排一次队。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "表面正向，真实负向"
+  },
+  {
+    "id": "adv_012",
+    "text": "太妙了，报错信息比答案还完整。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "技术场景反语"
+  },
+  {
+    "id": "adv_013",
+    "text": "真贴心，连反馈都替我删了。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "负面行为 + 反讽"
+  },
+  {
+    "id": "adv_014",
+    "text": "I love when the deadline moves earlier again.",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "英语反语"
+  },
+  {
+    "id": "adv_015",
+    "text": "你可真体贴，把最关键的附件漏掉了。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "遗漏附件"
+  },
+  {
+    "id": "adv_016",
+    "text": "这就叫效率？那我宁愿慢一点。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "反问式否定"
+  },
+  {
+    "id": "adv_017",
+    "text": "今天的更新像一盏暖灯，终于稳定了。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "带emoji的积极样本🙂"
+  },
+  {
+    "id": "adv_018",
+    "text": "这次协作像顺风一样轻松。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "隐喻正向"
+  },
+  {
+    "id": "adv_019",
+    "text": "收到你的帮助后，我真的松了一口气。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "帮助带来正向情绪"
+  },
+  {
+    "id": "adv_020",
+    "text": "会议虽然拖了一点，但结论很清楚。",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "中英混杂 + 正向结果"
+  },
+  {
+    "id": "adv_021",
+    "text": "The fix actually solved the issue, nice work.",
+    "label": "positive",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "英文正向"
+  },
+  {
+    "id": "adv_022",
+    "text": "消息已经发出，等待后续处理。",
+    "label": "neutral",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "过程陈述"
+  },
+  {
+    "id": "adv_023",
+    "text": "这个结果既不意外，也不特别。",
+    "label": "neutral",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "中性评价"
+  },
+  {
+    "id": "adv_024",
+    "text": "数据按顺序整理好了。",
+    "label": "neutral",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "操作记录"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "metaphor_020",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "metaphor_008",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "sarcasm_012",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_010",
+    "prediction": "negative",
+    "raw_output": "label: negative"
+  },
+  {
+    "id": "sarcasm_015",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "metaphor_006",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_002",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "adv_002",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "normal_016",
+    "prediction": "negative",
+    "raw_output": "label: negative"
+  },
+  {
+    "id": "adv_003",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "sarcasm_022",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "normal_011",
+    "prediction": "negative",
+    "raw_output": "label: negative"
+  },
+  {
+    "id": "adv_024",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "metaphor_018",
+    "prediction": "negative",
+    "raw_output": "label: negative"
+  },
+  {
+    "id": "sarcasm_004",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "metaphor_017",
+    "prediction": "neutral",
+    "raw_output": "label"
+  },
+  {
+    "id": "metaphor_025",
+    "prediction": "neutral",
+    "raw_output": "label: neutral"
+  },
+  {
+    "id": "adv_019",
+    "prediction": "neutral",
+    "raw_output": "label:"
+  },
+  {
+    "id": "sarcasm_023",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "sarcasm_005",
+    "prediction": "negative",
+    "raw_output": "negative"
+  }
+]

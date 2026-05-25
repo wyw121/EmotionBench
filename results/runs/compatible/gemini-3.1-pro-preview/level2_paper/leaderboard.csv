@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,strict_accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score,format_valid_rate,invalid_output_count
+OpenAI-Compatible,gemini-3.1-pro-preview,101,0.6534653465346535,0.5346534653465347,0.668837794322188,0.8,0.6053086419753086,0.7566358024691358,0.5445544554455446,46

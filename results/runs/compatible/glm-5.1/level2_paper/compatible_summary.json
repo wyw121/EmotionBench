@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.3069306930693069,
+  "strict_accuracy": 0.039603960396039604,
+  "macro_f1": 0.29107744107744105,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      2,
+      42,
+      9
+    ],
+    [
+      0,
+      19,
+      6
+    ],
+    [
+      0,
+      13,
+      10
+    ]
+  ],
+  "per_type_accuracy": {
+    "metaphor": 0.37037037037037035,
+    "sarcasm": 0.16,
+    "normal": 0.52,
+    "adversarial": 0.16666666666666666
+  },
+  "format_valid_rate": 0.039603960396039604,
+  "invalid_output_count": 97,
+  "support": {
+    "negative": 53,
+    "neutral": 25,
+    "positive": 23
+  },
+  "normal_accuracy": 0.52,
+  "adversarial_accuracy": 0.23234567901234568,
+  "robustness_score": 0.4468186134852801,
+  "provider": "OpenAI-Compatible",
+  "model": "glm-5.1",
+  "num_samples": 101,
+  "prompt": "baseline.txt"
+}

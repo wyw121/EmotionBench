@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,strict_accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score,format_valid_rate,invalid_output_count
+OpenAI-Compatible,claude-sonnet-4-6,101,0.9900990099009901,0.9900990099009901,0.9861050803300043,1.0,0.9876543209876543,0.9876543209876543,1.0,0

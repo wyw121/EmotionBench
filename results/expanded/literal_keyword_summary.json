@@ -1,0 +1,40 @@
+{
+  "accuracy": 0.45544554455445546,
+  "macro_f1": 0.47091817496229266,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      11,
+      41,
+      1
+    ],
+    [
+      0,
+      25,
+      0
+    ],
+    [
+      0,
+      13,
+      10
+    ]
+  ],
+  "per_type_accuracy": {
+    "normal": 0.88,
+    "metaphor": 0.37037037037037035,
+    "sarcasm": 0.4,
+    "adversarial": 0.16666666666666666
+  },
+  "support": {
+    "negative": 53,
+    "neutral": 25,
+    "positive": 23
+  },
+  "normal_accuracy": 0.88,
+  "adversarial_accuracy": 0.31234567901234567,
+  "robustness_score": 0.35493827160493824
+}

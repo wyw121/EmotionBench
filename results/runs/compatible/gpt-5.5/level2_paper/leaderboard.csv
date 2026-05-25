@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,strict_accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score,format_valid_rate,invalid_output_count
+OpenAI-Compatible,gpt-5.5,101,0.9702970297029703,0.9702970297029703,0.962528344671202,1.0,0.9609876543209875,0.9609876543209875,1.0,0

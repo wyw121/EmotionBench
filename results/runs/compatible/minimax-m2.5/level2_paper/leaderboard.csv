@@ -1,0 +1,2 @@
+provider,model,num_samples,accuracy,strict_accuracy,macro_f1,normal_accuracy,adversarial_accuracy,robustness_score,format_valid_rate,invalid_output_count
+OpenAI-Compatible,minimax-m2.5,101,0.24752475247524752,0.0,0.13227513227513227,0.32,0.21944444444444444,0.6857638888888888,0.0,101

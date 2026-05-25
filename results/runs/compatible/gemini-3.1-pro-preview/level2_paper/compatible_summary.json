@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.6534653465346535,
+  "strict_accuracy": 0.5346534653465347,
+  "macro_f1": 0.668837794322188,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "confusion_matrix": [
+    [
+      28,
+      25,
+      0
+    ],
+    [
+      0,
+      24,
+      1
+    ],
+    [
+      0,
+      9,
+      14
+    ]
+  ],
+  "per_type_accuracy": {
+    "metaphor": 0.5925925925925926,
+    "sarcasm": 0.64,
+    "normal": 0.8,
+    "adversarial": 0.5833333333333334
+  },
+  "format_valid_rate": 0.5445544554455446,
+  "invalid_output_count": 46,
+  "support": {
+    "negative": 53,
+    "neutral": 25,
+    "positive": 23
+  },
+  "normal_accuracy": 0.8,
+  "adversarial_accuracy": 0.6053086419753086,
+  "robustness_score": 0.7566358024691358,
+  "provider": "OpenAI-Compatible",
+  "model": "gemini-3.1-pro-preview",
+  "num_samples": 101,
+  "prompt": "baseline.txt"
+}

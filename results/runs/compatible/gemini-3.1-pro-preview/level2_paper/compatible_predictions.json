@@ -1,0 +1,507 @@
+[
+  {
+    "id": "metaphor_020",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_008",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_012",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "normal_010",
+    "prediction": "neutral",
+    "raw_output": "Text: \""
+  },
+  {
+    "id": "sarcasm_015",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_006",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "normal_002",
+    "prediction": "neutral",
+    "raw_output": "Input Text:"
+  },
+  {
+    "id": "adv_002",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "normal_016",
+    "prediction": "neutral",
+    "raw_output": "Text: \""
+  },
+  {
+    "id": "adv_003",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "sarcasm_022",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "normal_011",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_024",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "metaphor_018",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_004",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_017",
+    "prediction": "neutral",
+    "raw_output": "Input"
+  },
+  {
+    "id": "metaphor_025",
+    "prediction": "neutral",
+    "raw_output": ", no"
+  },
+  {
+    "id": "adv_019",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "sarcasm_023",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "sarcasm_005",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_007",
+    "prediction": "neutral",
+    "raw_output": "Condition: Handle"
+  },
+  {
+    "id": "normal_009",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "normal_022",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_009",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_004",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_014",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "sarcasm_001",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_008",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_002",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_019",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_026",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_017",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_024",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_009",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_013",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_023",
+    "prediction": "neutral",
+    "raw_output": "照"
+  },
+  {
+    "id": "metaphor_021",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "adv_023",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_012",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_015",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_013",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_012",
+    "prediction": "neutral",
+    "raw_output": "Input Text:"
+  },
+  {
+    "id": "normal_024",
+    "prediction": "neutral",
+    "raw_output": "Input Text:"
+  },
+  {
+    "id": "metaphor_015",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_016",
+    "prediction": "neutral",
+    "raw_output": ": 那份"
+  },
+  {
+    "id": "normal_019",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "sarcasm_016",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "sarcasm_011",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "sarcasm_010",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_008",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "metaphor_010",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_006",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_022",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "normal_003",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "metaphor_027",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_017",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "metaphor_014",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_008",
+    "prediction": "neutral",
+    "raw_output": "Input Text:"
+  },
+  {
+    "id": "sarcasm_025",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "normal_023",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "normal_007",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "normal_025",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "normal_006",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "adv_016",
+    "prediction": "neutral",
+    "raw_output": "Input Text:"
+  },
+  {
+    "id": "sarcasm_017",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_007",
+    "prediction": "neutral",
+    "raw_output": "Input Text:"
+  },
+  {
+    "id": "normal_020",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "sarcasm_021",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "metaphor_019",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_011",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "normal_021",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "normal_001",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "adv_020",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_006",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_021",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_002",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_014",
+    "prediction": "neutral",
+    "raw_output": "Text: \""
+  },
+  {
+    "id": "metaphor_001",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "sarcasm_020",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_009",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_001",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "sarcasm_013",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "metaphor_005",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "metaphor_003",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_013",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_022",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_005",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "sarcasm_003",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "sarcasm_024",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "normal_012",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "sarcasm_018",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_010",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "normal_014",
+    "prediction": "neutral",
+    "raw_output": "Input Text:"
+  },
+  {
+    "id": "normal_018",
+    "prediction": "neutral",
+    "raw_output": "neutral"
+  },
+  {
+    "id": "metaphor_004",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "metaphor_007",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "metaphor_011",
+    "prediction": "neutral",
+    "raw_output": ""
+  },
+  {
+    "id": "adv_018",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "normal_004",
+    "prediction": "positive",
+    "raw_output": "positive"
+  },
+  {
+    "id": "normal_015",
+    "prediction": "negative",
+    "raw_output": "negative"
+  },
+  {
+    "id": "adv_005",
+    "prediction": "negative",
+    "raw_output": "negative"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "model": "demo-model",
+  "dataset": "EmotionBench",
+  "accuracy": 0.0,
+  "macro_f1": 0.0,
+  "per_type_accuracy": {},
+  "robustness_score": 0.0
+}

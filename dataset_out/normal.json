@@ -1,0 +1,8 @@
+[
+  {"id": "normal_001", "text": "今天拿到奖学金，我真的很开心。", "label": "positive", "type": "normal", "difficulty": "easy", "context": "学生收到好消息"},
+  {"id": "normal_002", "text": "天气一般，但心情还算平静。", "label": "neutral", "type": "normal", "difficulty": "easy", "context": "日常状态描述"},
+  {"id": "normal_003", "text": "项目延期让我有点失落。", "label": "negative", "type": "normal", "difficulty": "easy", "context": "工作受挫"},
+  {"id": "normal_004", "text": "这家餐厅的菜很好吃。", "label": "positive", "type": "normal", "difficulty": "easy", "context": "用餐评价"},
+  {"id": "normal_005", "text": "今天开会很普通，没有特别的感觉。", "label": "neutral", "type": "normal", "difficulty": "easy", "context": "会议反馈"},
+  {"id": "normal_006", "text": "手机又坏了，真让人烦。", "label": "negative", "type": "normal", "difficulty": "easy", "context": "设备故障"}
+]

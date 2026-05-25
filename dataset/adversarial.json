@@ -1,0 +1,8 @@
+[
+  {"id": "adv_001", "text": "谢谢你哈🙂，方案写得真‘周到’。", "label": "negative", "type": "adversarial", "difficulty": "hard", "context": "引号反语 + emoji"},
+  {"id": "adv_002", "text": "这波操作太6了吧，文档直接删光。", "label": "negative", "type": "adversarial", "difficulty": "hard", "context": "网络语言 + 负面行为"},
+  {"id": "adv_003", "text": "Great, the update broke everything again.", "label": "negative", "type": "adversarial", "difficulty": "hard", "context": "英文反讽"},
+  {"id": "adv_004", "text": "你居然还记得交作业，真令人意外。", "label": "negative", "type": "adversarial", "difficulty": "medium", "context": "表面肯定，真实贬义"},
+  {"id": "adv_005", "text": "今天心情像掉进了冰箱。", "label": "negative", "type": "adversarial", "difficulty": "medium", "context": "隐喻负面情绪"},
+  {"id": "adv_006", "text": "当然啦，凌晨三点开会最适合提高效率。", "label": "negative", "type": "adversarial", "difficulty": "hard", "context": "讽刺加班文化"}
+]
