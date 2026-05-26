@@ -1,0 +1,34 @@
+[
+  {
+    "id": "normal_001",
+    "text": "今天阳光很好，心情也跟着明亮起来。",
+    "label": "positive",
+    "type": "normal",
+    "difficulty": "easy",
+    "context": "日常积极表达"
+  },
+  {
+    "id": "sarcasm_001",
+    "text": "真是太贴心了，排队两小时才告诉我系统坏了。",
+    "label": "negative",
+    "type": "sarcasm",
+    "difficulty": "medium",
+    "context": "用户在吐槽服务体验"
+  },
+  {
+    "id": "metaphor_001",
+    "text": "他的笑容像冬天里的一束火，瞬间点亮了房间。",
+    "label": "positive",
+    "type": "metaphor",
+    "difficulty": "medium",
+    "context": "隐喻式情绪表达"
+  },
+  {
+    "id": "adversarial_001",
+    "text": "我不是生气，我只是对这个结果感到非常‘满意’。",
+    "label": "negative",
+    "type": "adversarial",
+    "difficulty": "hard",
+    "context": "表层褒义与真实情绪相反"
+  }
+]
