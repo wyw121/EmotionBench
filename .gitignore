@@ -4,3 +4,10 @@ __pycache__/
 .env
 results/latest_summary.json
 results/charts/*.png
+!results/charts/radar_chart.png
+!results/charts/confusion_matrix.png
+results/temp/
+results/runs/**/_shuffled_dataset.json
+http_debug.log
+reports/论文原材料总清单.md
+reports/论文内容现状与写作规划.md
