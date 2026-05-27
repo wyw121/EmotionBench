@@ -9,5 +9,4 @@ results/charts/*.png
 results/temp/
 results/runs/**/_shuffled_dataset.json
 http_debug.log
-reports/论文原材料总清单.md
-reports/论文内容现状与写作规划.md
+
