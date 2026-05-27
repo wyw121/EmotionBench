@@ -1,9 +1,0 @@
-{
-  "provider": "compatible",
-  "dataset": "D:\\material\\大三下学期2025-2026-2\\人工智能导论\\LLM-Emotion-Eval\\EmotionBench\\results\\temp\\qwen_smoke_qwen3.5-plus\\_shuffled_dataset.json",
-  "prompt": "baseline.txt",
-  "limit": 1,
-  "shuffle": true,
-  "seed": 42,
-  "output_dir": "D:\\material\\大三下学期2025-2026-2\\人工智能导论\\LLM-Emotion-Eval\\EmotionBench\\results\\temp\\qwen_smoke_qwen3.5-plus"
-}
