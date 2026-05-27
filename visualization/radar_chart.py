@@ -23,7 +23,6 @@ def plot_radar_chart(scores: dict[str, float], output_path: str | Path) -> Path:
     ax.set_xticks(angles[:-1])
     ax.set_xticklabels(labels)
     ax.set_yticklabels([])
-    ax.set_title("EmotionBench Capability Radar")
     ax.set_ylim(0, 1)
     plt.tight_layout()
     plt.savefig(output_path, dpi=200)

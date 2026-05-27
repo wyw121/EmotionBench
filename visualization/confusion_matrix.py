@@ -13,7 +13,6 @@ def plot_confusion_matrix(matrix: list[list[int]], labels: list[str], output_pat
     sns.heatmap(matrix, annot=True, fmt="d", cmap="Blues", xticklabels=labels, yticklabels=labels)
     plt.xlabel("Predicted")
     plt.ylabel("Gold")
-    plt.title("EmotionBench Confusion Matrix")
     plt.tight_layout()
     plt.savefig(output_path, dpi=200)
     plt.close()

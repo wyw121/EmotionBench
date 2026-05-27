@@ -3,7 +3,7 @@
 - 项目名称：EmotionBench
 - 项目类型：LLM 复杂情感语义评测框架
 - 当前实验规模：101 条样本，覆盖 normal / sarcasm / metaphor / adversarial 四类文本
-- 工程规模：仓库共 37 个文件，其中 Python 文件 14 个、Markdown 文件 2 个，Python 代码约 918 行、全部可读文本约 1553 行。
+- 工程规模：截至本次整理，仓库共 188 个文件，其中 Python 文件 20 个、Markdown 文件 15 个、PNG 图片 21 张、JSON 文件 96 个。
 - 评测目标：判断模型是否真正理解复杂情感语义，而不是只依赖情感词表面匹配。
 - 标签分布：negative=53，neutral=25，positive=23。
 - 类型分布：normal=25，sarcasm=25，metaphor=27，adversarial=24。

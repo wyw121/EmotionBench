@@ -134,14 +134,21 @@ python scripts/generate_paper_figures.py --write-index
 
 ## Paper figures
 
-The following figures are tracked in the repository for paper use:
+The latest paper-ready figures are stored under `reports/figures/`, and the full manifest lives in `reports/figures/figure_index.md`.
 
-- Baseline comparison
-- Prompt comparison
-- Real-model overall comparison
-- Type-wise accuracy heatmap
+Tracked figure families include:
+
 - Dataset label distribution
 - Dataset type distribution
+- Benchmark architecture overview
+- Project directory structure overview
+- Rule-based baseline comparison
+- Majority-negative confusion matrix
+- Literal-keyword confusion matrix
+- Prompt-aware confusion matrix
+- Real-model overall comparison
+- Type-wise accuracy heatmap
+- Prompt comparison
 
 ## Reproducibility notes
 

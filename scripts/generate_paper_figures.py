@@ -4,6 +4,7 @@ import argparse
 import json
 from collections import Counter
 from pathlib import Path
+import sys
 
 import matplotlib
 
@@ -15,6 +16,13 @@ import seaborn as sns
 
 
 ROOT = Path(__file__).resolve().parents[1]
+SRC = ROOT / "src"
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+if str(SRC) not in sys.path:
+    sys.path.insert(0, str(SRC))
+
+from visualization.confusion_matrix import plot_confusion_matrix
 
 
 def load_json(path: Path) -> object:
@@ -79,7 +87,6 @@ def plot_distribution_bar(title: str, ylabel: str, counts: Counter, palette: lis
     total = sum(values)
     fig, ax = plt.subplots(figsize=(8.5, 5.6))
     bars = ax.bar(labels, values, color=palette[: len(labels)], width=0.62, edgecolor="#FFFFFF", linewidth=1.0)
-    ax.set_title(title, pad=14, weight="semibold")
     ax.set_xlabel("Category")
     ax.set_ylabel(ylabel)
     ax.set_ylim(0, max(values) * 1.22)
@@ -144,19 +151,9 @@ def plot_project_structure(output_path: Path) -> Path:
     fig = plt.figure(figsize=(12.5, 8))
     ax = fig.add_subplot(111)
     ax.axis("off")
-    fig.suptitle("Project Directory Structure Overview", y=0.98, fontsize=18, fontweight="semibold")
-    fig.text(
-        0.035,
-        0.92,
-        "Condensed workspace tree rendered from the current EmotionBench repository.",
-        ha="left",
-        va="top",
-        fontsize=11,
-        color="#555555",
-    )
     fig.text(
         0.04,
-        0.86,
+        0.96,
         tree_text,
         family="monospace",
         fontsize=12,
@@ -198,7 +195,6 @@ def plot_grouped_comparison(
     fig, ax = plt.subplots(figsize=(max(11, len(records) * 1.6), 6.8))
     palette = sns.color_palette("Set2", n_colors=len(metrics))
     sns.barplot(data=df, x="Label", y="Value", hue="Metric", palette=palette, ax=ax)
-    ax.set_title(title, pad=14, weight="semibold")
     ax.set_xlabel("")
     ax.set_ylabel("Score")
     ax.set_ylim(0, 1.05)
@@ -306,7 +302,6 @@ def plot_real_model_heatmap(records: list[dict[str, object]], output_path: Path)
         cbar_kws={"label": "Accuracy"},
         ax=ax,
     )
-    ax.set_title("Model Type-wise Accuracy Heatmap", pad=14, weight="semibold")
     ax.set_xlabel("Text Category")
     ax.set_ylabel("Model")
     return save_figure(fig, output_path)
@@ -355,6 +350,20 @@ def build_figures(dataset_dir: Path, results_root: Path, output_dir: Path) -> li
             rotate_x=True,
         )
     )
+
+    for _, summary_path, filename in [
+        ("Majority-Negative", results_root / "expanded" / "majority_negative_summary.json", "majority_negative_confusion_matrix.png"),
+        ("Literal-Keyword", results_root / "expanded" / "literal_keyword_summary.json", "literal_keyword_confusion_matrix.png"),
+        ("Prompt-Aware", results_root / "expanded" / "prompt_aware_summary.json", "prompt_aware_confusion_matrix.png"),
+    ]:
+        summary = load_summary(summary_path)
+        figure_paths.append(
+            plot_confusion_matrix(
+                summary["confusion_matrix"],
+                summary["labels"],
+                output_dir / filename,
+            )
+        )
 
     real_model_records = load_real_models(results_root / "runs")
     figure_paths.append(
@@ -414,6 +423,9 @@ def write_index(output_dir: Path, figures: list[Path]) -> Path:
         "dataset_type_distribution.png": "Distribution over benchmark sample types.",
         "project_directory_structure.png": "Condensed repository tree for the project overview section.",
         "rule_based_baseline_comparison.png": "Comparison of rule-based baselines on the expanded benchmark.",
+        "majority_negative_confusion_matrix.png": "Confusion matrix for the majority-negative baseline.",
+        "literal_keyword_confusion_matrix.png": "Confusion matrix for the literal-keyword baseline.",
+        "prompt_aware_confusion_matrix.png": "Confusion matrix for the prompt-aware baseline.",
         "real_model_overall_comparison.png": "Overall performance comparison across real models.",
         "model_type_wise_accuracy_heatmap.png": "Per-type accuracy heatmap for each real model.",
         "prompt_comparison.png": "Baseline versus CoT prompt comparison on the Gemini 2.5 Pro subset.",
